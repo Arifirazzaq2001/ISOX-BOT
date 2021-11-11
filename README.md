@@ -9,6 +9,7 @@ And Please Appreciate This WhatsApp Bot Script I Made, Because I'm A Self-taught
 To run the WhatsApp bot, you can click on one of the platforms below to deploy
 
 _______________________
+
 ##### Deploy To Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arifirazzaq2001/ISOX-BOT)
 
@@ -17,6 +18,7 @@ _______________________
 
 In addition to the above platforms, you can run bots specifically using RDP/PC/COMPUTER. 
 and for platforms, look for support such as Debian/Linux/Ubuntu and so on.
+
 _______________________
 
 ### Finding Bugs?
