@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to ISOX-BOT Official page
 
-You can use the [editor on GitHub](https://github.com/Arifirazzaq2001/ISOX-BOT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here I want to give my own WhatsApp bot script, and you can use it for free, with a homemade base called [ISOX BOT](https://github.com/Arifirazzaq2001/ISOX-BOT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And Please Appreciate This WhatsApp Bot Script I Made, Because I'm A Self-taught Programmer.
 
-### Markdown
+### How to Run it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To run the WhatsApp bot, you can click on one of the platforms below to deploy
 
-```markdown
-Syntax highlighted code block
+#### Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arifirazzaq2001/ISOX-BOT)
 
-# Header 1
-## Header 2
-### Header 3
+#### Deploy To Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Arifirazzaq2001/ISOX-BOT)
 
-- Bulleted
-- List
+In addition to the above platforms, you can run bots specifically using RDP/PC/COMPUTER, and for platforms, look for support such as Debian/Linux/Ubuntu and so on.
 
-1. Numbered
-2. List
+### Finding Bugs?
+Submit Your Complaint at [issue](https://github.com/Arifirazzaq2001/ISOX-BOT/issue)
 
-**Bold** and _Italic_ and `Code` text
+ISOX-BOT Official WhatsApp Number [click here](https://wa.me/6285934360746)
 
-[Link](url) and ![Image](src)
-```
+### [`support`](https://github.com/Arifirazzaq2001)
+[Youtube](https://youtube.com/channel/UCoDF8iQJAJ_KSNGEXqilRxQ)
+[Instagram](https://instagram.com/arifirazzaq2001)
+[Email](arifirazzaq2001@gmail.com)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arifirazzaq2001/ISOX-BOT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
