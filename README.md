@@ -23,7 +23,7 @@ _______________________
 Submit Your Complaint at [issue](https://github.com/Arifirazzaq2001/ISOX-BOT/issue)
 ISOX-BOT Official WhatsApp Number [click here](https://wa.me/6285934360746)
 
-### [`support`](https://github.com/Arifirazzaq2001)
+### support
 * [Youtube](https://youtube.com/channel/UCoDF8iQJAJ_KSNGEXqilRxQ)
 * [Instagram](https://instagram.com/arifirazzaq2001)
 * [WhatsApp](https://wa.me/6281261324817)
